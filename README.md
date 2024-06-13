@@ -46,7 +46,7 @@ To run the genetic algorithm, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone <[repository-url](https://github.com/ridaamirr/N-Queens-Problem/)>
+    git clone <https://github.com/ridaamirr/N-Queens-Problem/>
     ```
 
 2. **Run the Script**: Execute the Python script to generate the initial population, perform selection, crossover, and mutation, and find a solution to the N-Queens problem.
